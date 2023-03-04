@@ -1,0 +1,23 @@
+{
+  "name": "webcrawler-http",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kubatbekkk/webcrawler-http.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kubatbekkk/webcrawler-http/issues"
+  },
+  "homepage": "https://github.com/Kubatbekkk/webcrawler-http#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
